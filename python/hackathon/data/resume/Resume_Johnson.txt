@@ -1,132 +1,132 @@
- Carter Johnson 
+ carter johnson 
 carterj@wharton.upenn.edu  |  (919) 555-1212 
-School Address: Harnwell College House, 3820 Locust Walk MB 261, Philadelphia, PA 19104 
-Permanent Address: 11 Palm Lane, Umm Suqeim 3, Dubai, U.A.E. 
+school address: harnwell college house, 3820 locust walk mb 261, philadelphia, pa 19104 
+permanent address: 11 palm lane, umm suqeim 3, dubai, u.a.e. 
 
-EDUCATION 
-University of Pennsylvania, Jerome Fisher Program in Management and Technology 
+education 
+university of pennsylvania, jerome fisher program in management and technology 
 
-School of Engineering and Applied Science: BSE in Computer Science, Minor in Mathematics 
-The Wharton School: BS in Economics, Concentrations in Finance and Management 
-
- 
- 
-  Cumulative GPA: 3.98/4.00  |  Honors: Wharton Dean’s List & Engineering Dean’s List (May 2015) 
-
-Dubai College (High School) 
-
-SAT Scores: Math 800 | Writing 760 | Reading 730 
+school of engineering and applied science: bse in computer science, minor in mathematics 
+the wharton school: bs in economics, concentrations in finance and management 
 
  
-  A Levels: Mathematics A* (581/600), Physics A* (597/600), Chemistry A* (594/600), Economics A* (396/400) 
-  AS Levels: Further Mathematics A (290/300) 
+ 
+  cumulative gpa: 3.98/4.00  |  honors: wharton dean’s list & engineering dean’s list (may 2015) 
+
+dubai college (high school) 
+
+sat scores: math 800 | writing 760 | reading 730 
+
+ 
+  a levels: mathematics a* (581/600), physics a* (597/600), chemistry a* (594/600), economics a* (396/400) 
+  as levels: further mathematics a (290/300) 
 
  
-Philadelphia, PA 
-May 2018 
-May 2018 
+philadelphia, pa 
+may 2018 
+may 2018 
 
-Dubai, U.A.E. 
-June 2014 
+dubai, u.a.e. 
+june 2014 
 
-PROFESSIONAL EXPERIENCE 
-Wharton Small Business Development Center, Consultant, Philadelphia, PA 
+professional experience 
+wharton small business development center, consultant, philadelphia, pa 
 
-October 2015 - Present 
+october 2015 - present 
 
-  Consulted for real estate appraisal management software company ($7MM annual sales revenue) and identified potential 
+  consulted for real estate appraisal management software company ($7mm annual sales revenue) and identified potential 
 
 growth opportunities for diversification in revenue streams 
 
-  Analyzed market space for commercial real estate appraisal management softwa re industry and estimated an upper bound 
+  analyzed market space for commercial real estate appraisal management softwa re industry and estimated an upper bound 
 
-for potential revenue generation for new product in this space ($30MM annual revenue) 
+for potential revenue generation for new product in this space ($30mm annual revenue) 
 
-  Developed Excel interactive sales tool to communicate economic value to customer given set of inputs, such as cost of 
+  developed excel interactive sales tool to communicate economic value to customer given set of inputs, such as cost of 
 
-appraisals and cost of Full Time Equivalents (FTEs) 
+appraisals and cost of full time equivalents (ftes) 
 
-Management & Technology Summer Institute, Residential Teaching Assistant, Philadelphia, PA 
+management & technology summer institute, residential teaching assistant, philadelphia, pa 
 
-July 2015 - August 2015 
+july 2015 - august 2015 
 
-Supervised 50 high-achieving high-school students through completion of college course in Engineering Entrepreneurship 
+supervised 50 high-achieving high-school students through completion of college course in engineering entrepreneurship 
 that involved thinking of a technology-related business idea and creating an associated market plan 
 
-  Advised students on appropriate business plans for their product concepts and discussed getting to market strategies for 
+  advised students on appropriate business plans for their product concepts and discussed getting to market strategies for 
 
 prototypes 
-Facilitated successful construction of product prototypes by acting as technical resource in lab  
+facilitated successful construction of product prototypes by acting as technical resource in lab  
 
  
 
  
 
-LEADERSHIP EXPERIENCE 
+leadership experience 
 
-Penn Cricket Club, Vice-President, Philadelphia, PA 
+penn cricket club, vice-president, philadelphia, pa 
 
-  Elected by other board members to promote growth and success of club at Penn 
-  Coordinated weekly training sessions to develop players’ skills and assisted with team  selection 
-  Worked to increase campus awareness of club and gain recognition for its achieveme nts as Penn’s most successful sports 
+  elected by other board members to promote growth and success of club at penn 
+  coordinated weekly training sessions to develop players’ skills and assisted with team  selection 
+  worked to increase campus awareness of club and gain recognition for its achieveme nts as penn’s most successful sports 
 
 club between 2014 and 2015 
 
-Dubai College, Deputy Head Boy, Dubai, U.A.E. 
+dubai college, deputy head boy, dubai, u.a.e. 
 
 involvement, and sporting excellence 
 
 involving student life 
 
-  Elected by 100 staff and 120 students as leader of Senior Student Body due to outstanding academic achievement, social 
+  elected by 100 staff and 120 students as leader of senior student body due to outstanding academic achievement, social 
 
-  Managed multiple administrative duties and was highly involved with academic changes in school, particularly those 
+  managed multiple administrative duties and was highly involved with academic changes in school, particularly those 
 
-August 2014 - Present 
+august 2014 - present 
 
-May 2013 – May 2014 
+may 2013 – may 2014 
 
-UAE U-19 National Cricket Team, Vice-Captain, Dubai, U.A.E. 
+uae u-19 national cricket team, vice-captain, dubai, u.a.e. 
 
-February 2012 – May 2013 
+february 2012 – may 2013 
 
-Selected by coaching staff to assist captain with on-field leadership 
-Supported captain with organizational duties and input for tactical decision-making 
+selected by coaching staff to assist captain with on-field leadership 
+supported captain with organizational duties and input for tactical decision-making 
 
  
  
-  Captained Dubai College Senior Cricket Team involving tactical decision-making and motivational abilities 
+  captained dubai college senior cricket team involving tactical decision-making and motivational abilities 
 
-HONORS and AWARDS 
-PennApps, ‘Best Use of Plaid API’ Prize Winner, Philadelphia, PA 
+honors and awards 
+pennapps, ‘best use of plaid api’ prize winner, philadelphia, pa 
 
  
-September 2016 
+september 2016 
 
-  Developed back-end of Pava, an interactive website that displays bank statements based on importance and interest of 
+  developed back-end of pava, an interactive website that displays bank statements based on importance and interest of 
 
 transactions rather than chronology, with two other team members 
 
-  Employed Stochastic Gradient Descent on training set of data to predict interest level of new  transactions 
+  employed stochastic gradient descent on training set of data to predict interest level of new  transactions 
 
-Penn Cricket Club, Philadelphia, PA 
+penn cricket club, philadelphia, pa 
 
-Dubai College Cricket, Dubai, U.A.E. 
+dubai college cricket, dubai, u.a.e. 
 
-SKILLS and INTERESTS 
+skills and interests 
 
  
 
-Selected as MVP American College Cricket Ivy League Championship (2014) 
+selected as mvp american college cricket ivy league championship (2014) 
 
-  Recognized 4x MVP DC Senior Team (2011-2014), UAE U-17 National Cricket Team Player (2010) 
+  recognized 4x mvp dc senior team (2011-2014), uae u-17 national cricket team player (2010) 
 
-August 2014 - Present 
+august 2014 - present 
 
-January 2010 – May 2014 
+january 2010 – may 2014 
 
-Language: Conversational French 
-Computer Skills: Fluent in Java; proficient in C, OCaml and Arduino; familiar with Python; proficient in Microsoft Office Suite 
-Interests: Basketball | Squash | Soccer | Badminton | Gaming 
+language: conversational french 
+computer skills: fluent in java; proficient in c, ocaml and arduino; familiar with python; proficient in microsoft office suite 
+interests: basketball | squash | soccer | badminton | gaming 
 
 

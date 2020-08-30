@@ -20,7 +20,10 @@ related_words = []
 
 keyword_dictionary = {}
 for i,keyword in enumerate(keywords):
-    word_vector = model.wv.most_similar(positive=keyword, topn=int(len(model.wv.vocab)/2))
+    word_vector = model.wv.most_similar(positive=keyword, topn=int(len(model.wv.vocab)))
+    word_vector = word_vector[0:150]
+    word_vector+= [(keyword,1)]
+
     word_vector = sorted(word_vector, key=lambda word: word[1])
     word_vector = word_vector[::-1]
 
@@ -33,34 +36,34 @@ for i,keyword in enumerate(keywords):
     related_words = related_words + word_vector
     output_dict.update({"relate":keyword_dictionary})
 
-for keyword in keywords:
-    related_words += [(keyword,1)]
+
+
+
+
 
 related_words = sorted(related_words, key=lambda word: word[1])
 related_words = related_words[::-1]
 
 
 
-
 priority_list = []
-
 searched_word = []
+
 for files in os.listdir(RESUME_PATH):
-    text = extract_text_from_document(os.path.join(RESUME_PATH,files))
-    count = 0
-    score = 0
-    triggered_word = []
-    for searchword in related_words:
-        if searchword[0] in text:
-            score += searchword[1]
-            count += 1
-            triggered_word.append(searchword)
+    if  files.endswith(".pdf") or  files.endswith(".docx"):
+        text = extract_text_from_document(os.path.join(RESUME_PATH,files))
+        score = 0
+        triggered_word = []
+        for searchword in related_words:
+            if searchword[0] in text:
+                score += searchword[1]
+                triggered_word.append(searchword)
 
 
-    triggered_word = sorted(triggered_word, key=lambda each: each[1])
-    triggered_word = triggered_word[::-1]
+        triggered_word = sorted(triggered_word, key=lambda each: each[1])
+        triggered_word = triggered_word[::-1]
 
-    priority_list.append((score,files,triggered_word[0:10]))
+        priority_list.append((score,files,triggered_word))
 
 priority_list = sorted(priority_list, key=lambda each: each[0])
 priority_list = priority_list[::-1]

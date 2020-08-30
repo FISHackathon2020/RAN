@@ -21,4 +21,4 @@ def extract_education_with_database_search(resume_text):
             educations.append(institution)
 
 
-    return educations
+    return educations[0:1]

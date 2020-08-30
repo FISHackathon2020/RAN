@@ -7,7 +7,6 @@
     <style>
         html,
         body {
-        height: 100%;
         width: 100%;
         }
         
@@ -33,6 +32,7 @@
             opacity: 0.8;
             background-color:red;
             cursor: pointer;
+            line-height:50%;
         }
         .btn_can:hover {
             opacity: 1;
@@ -43,7 +43,7 @@
 
         .overlay{
         display: none;
-        opacity:0.8;
+        opacity:0.9;
         background-color:#ccc;
         position:fixed;
         width:100%;
@@ -51,17 +51,23 @@
         top:0px;
         left:0px;
         z-index:1000;
-    }
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        cursor: wait;
+        }
     </style>
     <script>
         function loading() {
-            document.getElementById("overlay").style.display = "block";
+            document.getElementById("overlay").style.display = "flex";
+            document.body.style.cursor = 'wait';
         }
     </script>
 </head>
 
 <body>
-    <div class="overlay" id="overlay"></div>
+    <div class="overlay" id="overlay"><h1 style="color: black; font-size: 3em;">Uploading...</h1></div>
     <div class="container">
       <div class="content">
         <h1 style="color: black; font-size: 3em;">Upload your resume</h1><br><br>

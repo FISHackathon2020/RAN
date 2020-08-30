@@ -19,6 +19,7 @@ def extract_text_from_document(document_path):
     elif document_path.endswith(".docx"):
         text = extract_text_from_doc(document_path)
 
+    text = text.lower()
     with open(text_file, "w") as outfile:
         outfile.write(text)
 

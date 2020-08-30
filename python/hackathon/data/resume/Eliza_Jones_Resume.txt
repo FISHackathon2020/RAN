@@ -1,10 +1,10 @@
  	  
-THIS	  IS	  A	  SAMPLE	  RESUME	  –	  VISIT	  THE	  STUDENT	  PROFESSIONAL	  DEVELOPMENT	  CENTER	  FOR	  MORE	  SAMPLES	  
+this	  is	  a	  sample	  resume	  –	  visit	  the	  student	  professional	  development	  center	  for	  more	  samples	  
 
-Eliza Jones 
-380 Haggard Avenue, Elon, NC 27244 ● 336-707-5407 ● ejones12@elon.edu 
+eliza jones 
+380 haggard avenue, elon, nc 27244 ● 336-707-5407 ● ejones12@elon.edu 
 
-Spring 2013-May 2014 
+spring 2013-may 2014 
 
  
 
@@ -66,74 +66,74 @@ Spring 2013-May 2014
 
  
 
-Fall 2013 
+fall 2013 
 
-May 2014 
+may 2014 
 
-January 2014  
+january 2014  
 
-EDUCATION 
-Bachelor of Arts, Elon University, Elon, NC  
-Majors: Statistics and Sociology 
-GPA: 3.53 
-Academic Study Abroad: Italy-Fine Arts Winter Term 
-Honors: President’s List Spring 2011 and Spring 2013, and Dean’s List Fall 2012 and 2013 
+education 
+bachelor of arts, elon university, elon, nc  
+majors: statistics and sociology 
+gpa: 3.53 
+academic study abroad: italy-fine arts winter term 
+honors: president’s list spring 2011 and spring 2013, and dean’s list fall 2012 and 2013 
  
-SKILLS 
-Computer: SAS, IBM SPSS, R, Microsoft Word, Excel, and PowerPoint 
-Language: Fluent in Spanish 
+skills 
+computer: sas, ibm spss, r, microsoft word, excel, and powerpoint 
+language: fluent in spanish 
  
-STATISTICAL ANALYSIS PROJECTS 
+statistical analysis projects 
  
-Attitudes of atheists 
-Independent research project  
-● Analyzed previously collected data on the beliefs of 8,351 atheist participants  
-● Reviewed publications on religious believers’ attitudes towards atheists 
-● Reported correlations and percentages on morality, religion’s impact, and psychological health of atheists 
+attitudes of atheists 
+independent research project  
+● analyzed previously collected data on the beliefs of 8,351 atheist participants  
+● reviewed publications on religious believers’ attitudes towards atheists 
+● reported correlations and percentages on morality, religion’s impact, and psychological health of atheists 
  
-Alamance Health Center survey  
-Survey Sampling Methods project 
-● Consulted with coordinator to assess needs of rehabilitation center in Burlington, NC 
-● Designed and administered a survey to patients in desired population 
-● Presented research findings in formal oral presentation to Alamance Health Center staff 
+alamance health center survey  
+survey sampling methods project 
+● consulted with coordinator to assess needs of rehabilitation center in burlington, nc 
+● designed and administered a survey to patients in desired population 
+● presented research findings in formal oral presentation to alamance health center staff 
  
-The effects of sample size on statistical significance in two-sample proportion tests 
-Independent research project  
-● Examined previously collected data on cognitive development of nine and fourteen-month old infants 
-● Conducted simulations by increasing the sample sizes in statistical program R 
-● Identified the recommended sample sizes for yielding statistically significant results at varying levels of alpha  
+the effects of sample size on statistical significance in two-sample proportion tests 
+independent research project  
+● examined previously collected data on cognitive development of nine and fourteen-month old infants 
+● conducted simulations by increasing the sample sizes in statistical program r 
+● identified the recommended sample sizes for yielding statistically significant results at varying levels of alpha  
  
-Predicting the probability of diabetes based on lifestyle   
-Statistical Modeling project 
-● Interpreted results for given data set about diabetes 
-● Performed transformations to meet assumptions 
-● Generated a predictive model using logistic regression 
+predicting the probability of diabetes based on lifestyle   
+statistical modeling project 
+● interpreted results for given data set about diabetes 
+● performed transformations to meet assumptions 
+● generated a predictive model using logistic regression 
  
-LEADERSHIP EXPERIENCE   
+leadership experience   
  
-Psychology Club-Treasurer 
-● Coordinated 3 fundraisers, raising a total of $200 to support future events  
-● Managed a $1000 organization budget  
+psychology club-treasurer 
+● coordinated 3 fundraisers, raising a total of $200 to support future events  
+● managed a $1000 organization budget  
  
-Kappa Delta Sorority, Eta Chi Chapter- Founding Member 
-● Planned and advertised philanthropy on-campus events 
-● Volunteered with local Girl Scout troop events and cookie sales 
+kappa delta sorority, eta chi chapter- founding member 
+● planned and advertised philanthropy on-campus events 
+● volunteered with local girl scout troop events and cookie sales 
  
-CAMPUS INVOLVEMENT 
-Admissions Tour Guide- Elon University  
-● Greeted campus visitors and created welcoming atmosphere on campus 
-● Provided information and tours to prospective students and their families 
-● Assisted in maintaining organization of office by filing documents, copying and sorting materials  
+campus involvement 
+admissions tour guide- elon university  
+● greeted campus visitors and created welcoming atmosphere on campus 
+● provided information and tours to prospective students and their families 
+● assisted in maintaining organization of office by filing documents, copying and sorting materials  
  
-Mathematics Tutoring- Alamance High School                                                                                      Fall 2013 
+mathematics tutoring- alamance high school                                                                                      fall 2013 
  
-Elonthon Dance Marathon- Morale Committee                                                                                      Spring 2013, 2014 
+elonthon dance marathon- morale committee                                                                                      spring 2013, 2014 
  
-Women’s Club Soccer                                                                                                                              Fall 2010-2014 
+women’s club soccer                                                                                                                              fall 2010-2014 
 
-Summer 2013 
+summer 2013 
 
-Spring 2012 
+spring 2012 
 
  
  
@@ -183,13 +183,13 @@ Spring 2012
 
  
 
-Fall 2012-May 2014 
+fall 2012-may 2014 
 
-Fall 2012-Spring 2013 
+fall 2012-spring 2013 
 
-Spring 2011-May 2014 
+spring 2011-may 2014 
 
-Z:\ARTS	  &	  SCIENCES\Department	  Websites\Updated	  resumes	  for	  department	  pages-­‐Summer	  2014	  
+z:\arts	  &	  sciences\department	  websites\updated	  resumes	  for	  department	  pages-­‐summer	  2014	  
 	  
 
 	  

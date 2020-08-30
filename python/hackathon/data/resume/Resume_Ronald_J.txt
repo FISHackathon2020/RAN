@@ -1,6 +1,6 @@
- THIS IS A SAMPLE RESUME – VISIT THE STUDENT PROFESSIONAL DEVELOPMENT CENTER FOR MORE SAMPLES 
-RONALD R. JOHNSON 
-5229 Highland Avenue • Cary, North Carolina 27207 
+ this is a sample resume – visit the student professional development center for more samples 
+ronald r. johnson 
+5229 highland avenue • cary, north carolina 27207 
  (919) 333-2165 • rjohnson@gmail.com 
 
  
@@ -13,77 +13,77 @@ RONALD R. JOHNSON
  
 
  
-                                            May 2015 
-                                                  GPA: 3.3/4.0 
+                                            may 2015 
+                                                  gpa: 3.3/4.0 
 
 ________________________________________________________________________________________ 
  
-EDUCATION 
+education 
  
-Elon University, Elon, North Carolina 
-Bachelor of Science in Computer Science 
-Minor: Business Administration 
+elon university, elon, north carolina 
+bachelor of science in computer science 
+minor: business administration 
  
-TECHNICAL SKILLS 
+technical skills 
  
-Proficient in: Microsoft Office, Business Marketing, Hardware Systems, Database Management, Networking 
-Exposure to: Architectural Drafting (AutoCAD R14, 2000), Computer Programming, Web Development, 
-Geographic Information Systems, Oracle, Oracle Discoverer, Java, Visual Basic 2005, ArcMap, SQL, OPNET, 
-Visio, Linux, Windows Server 2003, Sharepoint 
+proficient in: microsoft office, business marketing, hardware systems, database management, networking 
+exposure to: architectural drafting (autocad r14, 2000), computer programming, web development, 
+geographic information systems, oracle, oracle discoverer, java, visual basic 2005, arcmap, sql, opnet, 
+visio, linux, windows server 2003, sharepoint 
  
-PROFESSIONAL EXPERIENCE 
+professional experience 
  
-IT Specialist Intern, U.S. EPA – National Air Data Group, RTP, NC                                                   Summer 2014 
-▪  Revamped Air Quality System User Manual, which provided users with updated features and capabilities 
-▪  Converted records from Oracle Discoverer to Excel to make records functional in the Air Quality System 
-▪  Provided feedback for Air Quality System administrators by debugging various system examinations, such as 
+it specialist intern, u.s. epa – national air data group, rtp, nc                                                   summer 2014 
+▪  revamped air quality system user manual, which provided users with updated features and capabilities 
+▪  converted records from oracle discoverer to excel to make records functional in the air quality system 
+▪  provided feedback for air quality system administrators by debugging various system examinations, such as 
 
-troubleshooting Java and browser issues and assisting group members in daily customer questions 
+troubleshooting java and browser issues and assisting group members in daily customer questions 
 
-▪  Tested Air Quality Profile Website for usability and structure; assisted fellow interns with G.I.S (ArcMap)    
+▪  tested air quality profile website for usability and structure; assisted fellow interns with g.i.s (arcmap)    
 
  
-Computer Specialist Intern, U.S. EPA – National Air Data Group, RTP, NC                                       Summer 2013 
-▪  Developed Air Quality System Training Course, which gave users easy navigation and examination of data 
-▪  Collaborated with National Air Data Group to upgrade the Air Quality System Data Mart and its 
+computer specialist intern, u.s. epa – national air data group, rtp, nc                                       summer 2013 
+▪  developed air quality system training course, which gave users easy navigation and examination of data 
+▪  collaborated with national air data group to upgrade the air quality system data mart and its 
 
 capabilities; developed complex graphs and detailed reports to generate better analyzes of numerical data 
-▪  Administered operational support for the Air Quality System in both Java and Oracle environments, while 
-resolving certain data issues that required contacting local and state agencies throughout the United States 
+▪  administered operational support for the air quality system in both java and oracle environments, while 
+resolving certain data issues that required contacting local and state agencies throughout the united states 
 
-▪  Received professional training on spreadsheets, sound/animation, & databases in Microsoft Office Suite 
-▪  Participated in development of incentive programs such as working closely with other outreach groups and 
+▪  received professional training on spreadsheets, sound/animation, & databases in microsoft office suite 
+▪  participated in development of incentive programs such as working closely with other outreach groups and 
 
 the community to improve policies and applications of emission factors 
 
  
-Sales Representative, Ace Appliance Center, RTP, NC 
+sales representative, ace appliance center, rtp, nc 
 
    
 
-                                        June 2012-May 2013 
+                                        june 2012-may 2013 
 
-▪  Participated in overall store operations, including sales transactions, warehouse inventories, and 
+▪  participated in overall store operations, including sales transactions, warehouse inventories, and 
 
 maintenance of financial records 
 
-▪  Created reports to make trend lines and predicted future outcomes in order to prepare for expansion 
-▪  Ensured timely product distribution while providing technical assistance to customers, which included 
+▪  created reports to make trend lines and predicted future outcomes in order to prepare for expansion 
+▪  ensured timely product distribution while providing technical assistance to customers, which included 
 
 installing necessary equipment, and demonstrating how to operate appliances  
  
 
-EXTRACURRICULAR ACTIVITIES 
+extracurricular activities 
 
  
 
-▪  Division 1A College Football Student-Athlete – 4 Year Letter Winner 
-▪  Fellowship Of Christian Athletes, Elon Football Team Fellowship, Athletes Connect Bible Study Member 
-▪  Youth Leader, Usher, Church mentor, Participated on Construction Team for Ecuador 
-▪  Volunteer Activities & Outreach: Ecuador Mission Trip, Community of Hope, Meals-on-Wheels, Secret 
+▪  division 1a college football student-athlete – 4 year letter winner 
+▪  fellowship of christian athletes, elon football team fellowship, athletes connect bible study member 
+▪  youth leader, usher, church mentor, participated on construction team for ecuador 
+▪  volunteer activities & outreach: ecuador mission trip, community of hope, meals-on-wheels, secret 
 
-Santa for Needy Families, Phoenix Fun-Day, Youth Football Camp 
+santa for needy families, phoenix fun-day, youth football camp 
 
-Z:\ARTS & SCIENCES\Department Websites\Updated resumes for department pages-Summer 2014 
+z:\arts & sciences\department websites\updated resumes for department pages-summer 2014 
 
 
