@@ -31,7 +31,7 @@ if($extension === "pdf" || $extension === "docx") {
   echo "<script>alert('Incorrect file.');location.href='upload.html';</script>";
 }
 
-$sql = "INSERT INTO student (no, name, phone, email, skills, majors, educations, experiences, file) VALUES (NULL, '$name', '$phone', '$email', '$skills', '$majors', '$educations', '$experiences', '$file[name]')";
+$sql = "INSERT INTO student (no, name, phone, email, skills, majors, educations, experiences, file) VALUES (NULL, '$name', '$phone', '$email', '$skills', '$majors', '$educations', '$experiences', '$file')";
 
 if ($mysqli->query($sql) === TRUE) {
   //echo "<br><br><b>Insert DB successfully!</b><br>Done.";
@@ -47,7 +47,7 @@ if ($mysqli->query($sql) === TRUE) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Title</title>
+    <title>Random Access Neuron</title>
     <style>
         html,
         body {
@@ -106,6 +106,13 @@ if ($mysqli->query($sql) === TRUE) {
         width: 100%;
         cursor: wait;
         }
+
+      a{
+        color:#48b4e0;
+      }
+        a:visited{
+        color:#48b4e0;
+      }
     </style>
     <script>
         window.onload=function(){document.body.style.cursor='default';}

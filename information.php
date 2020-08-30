@@ -26,7 +26,7 @@ $another = json_decode($json, true);
 <head>
     <script src="jquery-3.5.1.min.js"></script>
     <meta charset="utf-8">
-    <title>Title</title>
+    <title>Random Access Neuron</title>
     <style>
         html,
         body {

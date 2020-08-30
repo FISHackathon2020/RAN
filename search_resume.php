@@ -29,7 +29,7 @@ $info = json_decode($json, true);
 <head>
     <script src="jquery-3.5.1.min.js"></script>
     <meta charset="utf-8">
-    <title>Title</title>
+    <title>Random Access Neuron</title>
     <style>
         html,
         body {
@@ -148,7 +148,8 @@ $info = json_decode($json, true);
 
                             <br><br><br><span style="font-size: 30px;">Recommend Students</span><br>
                             <?php
-                            for($i = 0; $i < 10; $i++) {
+                            for($i = 0; $i < 30; $i++) {
+                                if($info['priority'][$i]['pdf'] == NULL) break;
                                 $file = $info['priority'][$i]['pdf'];
                                 $score = round($info['priority'][$i]['total_score'], 1);
                                 $related_vocabs = $info['priority'][$i]['related_vocabs'];

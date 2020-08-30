@@ -40,7 +40,7 @@
       <recent name="C:\Users\research\Documents\GitHub\hackathon\src\util" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.search_resume_with_keywords">
+  <component name="RunManager" selected="Python.trainer">
     <configuration name="downloader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hackathon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,10 +148,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trainer" />
         <item itemvalue="Python.search_resume_with_keywords" />
         <item itemvalue="Python.predictor" />
         <item itemvalue="Python.trainer (1)" />
-        <item itemvalue="Python.trainer" />
         <item itemvalue="Python.downloader" />
       </list>
     </recent_temporary>
@@ -171,10 +171,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1022" y="376" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598721476381">
+    <state x="1022" y="376" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598787815566">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="1022" y="376" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1598721476381" />
+    <state x="1022" y="376" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1598787815566" />
     <state x="1659" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1598544495732" />
     <state x="1022" y="371" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.973@0.23.1680.973" timestamp="1598710713407" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1598709549341">
@@ -185,34 +185,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598488838452" />
-    <state width="1659" height="364" key="GridCell.Tab.0.bottom" timestamp="1598786574913">
+    <state width="1659" height="379" key="GridCell.Tab.0.bottom" timestamp="1598788162774">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598786574913" />
+    <state width="1659" height="379" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598788162774" />
     <state width="1899" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711298" />
     <state width="1256" height="564" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1598714886394" />
-    <state width="1659" height="364" key="GridCell.Tab.0.center" timestamp="1598786574912">
+    <state width="1659" height="379" key="GridCell.Tab.0.center" timestamp="1598788162773">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598786574912" />
+    <state width="1659" height="379" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598788162773" />
     <state width="1899" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711297" />
     <state width="1256" height="564" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1598714886394" />
-    <state width="1659" height="364" key="GridCell.Tab.0.left" timestamp="1598786574911">
+    <state width="1659" height="379" key="GridCell.Tab.0.left" timestamp="1598788162772">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598786574911" />
+    <state width="1659" height="379" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598788162772" />
     <state width="1899" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711296" />
     <state width="1256" height="564" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1598714886393" />
-    <state width="1659" height="364" key="GridCell.Tab.0.right" timestamp="1598786574912">
+    <state width="1659" height="379" key="GridCell.Tab.0.right" timestamp="1598788162773">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598786574912" />
+    <state width="1659" height="379" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598788162773" />
     <state width="1899" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711298" />
     <state width="1256" height="564" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
