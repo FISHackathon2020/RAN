@@ -41,27 +41,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.search_resume_with_keywords">
-    <configuration name="dictionary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="hackathon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/word_similarity" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/word_similarity/dictionary_search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="downloader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hackathon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="predictor (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="predictor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hackathon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/word_similarity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/document_similarity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/word_similarity/predictor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/document_similarity/predictor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,6 +96,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_resume_with_keywords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hackathon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/document_similarity" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/document_similarity/trainer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,10 +149,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.search_resume_with_keywords" />
+        <item itemvalue="Python.predictor" />
+        <item itemvalue="Python.trainer (1)" />
         <item itemvalue="Python.trainer" />
         <item itemvalue="Python.downloader" />
-        <item itemvalue="Python.predictor (1)" />
-        <item itemvalue="Python.dictionary_search" />
       </list>
     </recent_temporary>
   </component>
@@ -185,60 +185,60 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598488838452" />
-    <state width="1659" height="379" key="GridCell.Tab.0.bottom" timestamp="1598751050926">
+    <state width="1659" height="379" key="GridCell.Tab.0.bottom" timestamp="1598774461993">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="379" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598751050926" />
+    <state width="1659" height="379" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598774461993" />
     <state width="1899" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711298" />
     <state width="1256" height="564" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1598714886394" />
-    <state width="1659" height="379" key="GridCell.Tab.0.center" timestamp="1598751050925">
+    <state width="1659" height="379" key="GridCell.Tab.0.center" timestamp="1598774461992">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="379" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598751050925" />
+    <state width="1659" height="379" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598774461992" />
     <state width="1899" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711297" />
     <state width="1256" height="564" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1598714886394" />
-    <state width="1659" height="379" key="GridCell.Tab.0.left" timestamp="1598751050924">
+    <state width="1659" height="379" key="GridCell.Tab.0.left" timestamp="1598774461991">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="379" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598751050924" />
+    <state width="1659" height="379" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598774461991" />
     <state width="1899" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711296" />
     <state width="1256" height="564" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1598714886393" />
-    <state width="1659" height="379" key="GridCell.Tab.0.right" timestamp="1598751050925">
+    <state width="1659" height="379" key="GridCell.Tab.0.right" timestamp="1598774461992">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="379" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598751050925" />
+    <state width="1659" height="379" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598774461992" />
     <state width="1899" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598442812784" />
     <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598601711298" />
     <state width="1256" height="564" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598591175894" />
     <state width="1659" height="379" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1598714886394" />
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1598731816535">
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1598767641267">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598731816535" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598767641267" />
     <state width="1899" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598601580420" />
     <state width="1255" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598544116588" />
-    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1598731816534">
+    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1598767641266">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598731816534" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598767641266" />
     <state width="1899" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598601580419" />
     <state width="1255" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598544116588" />
-    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1598731816534">
+    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1598767641266">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598731816534" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598767641266" />
     <state width="1899" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598601580418" />
     <state width="1255" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598544116588" />
-    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1598731816535">
+    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1598767641266">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598731816535" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598767641266" />
     <state width="1899" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598601580419" />
     <state width="1255" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598544116588" />
     <state x="618" y="167" key="SettingsEditor" timestamp="1598693296795">

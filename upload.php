@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 include 'mysql.php';
 $file = str_replace(' ','_',$_FILES['file']);
@@ -10,7 +14,7 @@ $extension = array_pop(explode('.', $name));
 
 if($extension === "pdf" || $extension === "docx") {
   echo "<b>Upload successfully!</b><br>".$name."<br>".$type."<br>".$size."<br>".$tmp_name."<br>".$extension;
-  move_uploaded_file($tmp_name, "python/hackathon/data/resume/$name");
+  //move_uploaded_file($tmp_name, "python/hackathon/data/resume/$name");
   exec("python/envs/hackathon/bin/python python/hackathon/main.py $name", $output);
   $json = implode(PHP_EOL, $output);
 
@@ -28,9 +32,10 @@ if($extension === "pdf" || $extension === "docx") {
   echo "<br><br><b>Get student data successfully!</b><br>";
   echo $name."<br>".$phone."<br>".$email."<br>".$skills."<br>".$majors."<br>".$educations."<br>".$experiences."<br>".$file["name"];
 } else {
-  echo "File type error!";
+  echo "<script>alert('Incorrect file.');location.href='upload.html';</script>";
 }
-//print $pdf
+exit();
+/*
 $sql = "INSERT INTO student (no, name, phone, email, skills, majors, educations, experiences, file) VALUES (NULL, '$name', '$phone', '$email', '$skills', '$majors', '$educations', '$experiences', '$file[name]')";
 
 if ($mysqli->query($sql) === TRUE) {
@@ -38,7 +43,8 @@ if ($mysqli->query($sql) === TRUE) {
 } else {
   echo "Error: " . $sql . "<br>" . $mysqli->error;
 }
-
+*/
 $mysqli->close();
+
 
 ?>
